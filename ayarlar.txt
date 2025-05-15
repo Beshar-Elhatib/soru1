@@ -1,0 +1,2 @@
+kullanici_adi=admin,tema 
+kullanici_adi=admin,tema 
